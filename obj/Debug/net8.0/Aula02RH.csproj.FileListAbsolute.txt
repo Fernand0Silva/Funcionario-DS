@@ -1,0 +1,28 @@
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.exe
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.deps.json
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.runtimeconfig.json
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.dll
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.pdb
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.AssemblyInfoInputs.cache
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.AssemblyInfo.cs
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.csproj.CoreCompileInputs.cache
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.dll
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\obj\Debug\net8.0\refint\Aula02RH.dll
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.pdb
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.genruntimeconfig.cache
+D:\2DS Luiz\LuizFlavia\DS\Aula02RH\obj\Debug\net8.0\ref\Aula02RH.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.AssemblyInfoInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.AssemblyInfo.cs
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.csproj.CoreCompileInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\obj\Debug\net8.0\refint\Aula02RH.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.pdb
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.exe
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.deps.json
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.runtimeconfig.json
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\bin\Debug\net8.0\Aula02RH.pdb
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\obj\Debug\net8.0\Aula02RH.genruntimeconfig.cache
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\Aula02RH\obj\Debug\net8.0\ref\Aula02RH.dll
